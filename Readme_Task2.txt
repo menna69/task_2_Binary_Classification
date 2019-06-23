@@ -13,4 +13,4 @@ train the model,
 using logistic regression model as the best model for training binary data.
 using grid search to tune hyperparameters and determine the optimal values for training the model.
 train the model on the training data and predict the target varible on the validation data.
-measure the accuracy and f score of the model as our performance metrics.
+measure the accuracy score and f_score of the model as our performance metrics.
